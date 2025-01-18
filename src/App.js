@@ -1,6 +1,4 @@
-import logo from './logo.svg';
 import './App.css';
-
 import Navbar from './PortComponents/Navbar';
 import './PortComponents/Port.css'
 import './PortComponents/PortResponsive.css';

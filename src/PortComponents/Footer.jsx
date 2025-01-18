@@ -11,33 +11,33 @@ export default class Footer extends Component{
       <div class="col-6 col-md-2 mb-3">
         <h5>Section</h5>
         <ul class="nav flex-column">
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Home</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Features</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Pricing</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">FAQs</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">About</a></li>
+          <li class="nav-item mb-2">Home</li>
+          <li class="nav-item mb-2">Features</li>
+          <li class="nav-item mb-2">Pricing</li>
+          <li class="nav-item mb-2">FAQs</li>
+          <li class="nav-item mb-2">About</li>
         </ul>
       </div>
 
       <div class="col-6 col-md-2 mb-3">
         <h5>Section</h5>
         <ul class="nav flex-column">
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Home</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Features</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Pricing</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">FAQs</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">About</a></li>
+          <li class="nav-item mb-2">Home</li>
+          <li class="nav-item mb-2">Features</li>
+          <li class="nav-item mb-2">Pricing</li>
+          <li class="nav-item mb-2">FAQs</li>
+          <li class="nav-item mb-2">About</li>
         </ul>
       </div>
 
       <div class="col-6 col-md-2 mb-3">
         <h5>Section</h5>
         <ul class="nav flex-column">
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Home</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Features</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">Pricing</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">FAQs</a></li>
-          <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white">About</a></li>
+          <li class="nav-item mb-2">Home</li>
+          <li class="nav-item mb-2">Features</li>
+          <li class="nav-item mb-2">Pricing</li>
+          <li class="nav-item mb-2">FAQs</li>
+          <li class="nav-item mb-2">About</li>
         </ul>
       </div>
 
